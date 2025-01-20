@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Python virtual environment configuration
+*.env
+
+# Python egg files
+*.egg
+*.egg-info/
+
+dist/
+build/
+
+# Temporary files
+*.bak
+*.tmp
